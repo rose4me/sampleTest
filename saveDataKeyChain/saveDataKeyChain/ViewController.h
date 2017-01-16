@@ -18,7 +18,7 @@
 @property(nonatomic,strong) IBOutlet UILabel * rajanName;
 
 
-@property(nonatomic,strong) IBOutlet UILabel * sName1;
+@property(nonatomic,strong) IBOutlet UILabel * sName2;
 
 @property(nonatomic,strong) IBOutlet UITextField * uName;
 @property(nonatomic,strong) IBOutlet UITextField * pwd;
